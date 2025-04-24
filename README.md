@@ -19,7 +19,7 @@ Este projeto é um agente de ditado (Speech-to-Text) para desktop chamado VoxySc
 
 ## Requisitos
 
-*   Python 3.10
+*   Python 3.12.8
 *   Conta OpenAI com chave de API configurada.
 *   Dependências listadas em `requirements.txt`.
 *   Microfone funcionando.
