@@ -1,0 +1,49 @@
+# Ambiente virtual
+.venv/
+venv/
+ENV/
+
+# Arquivos de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários
+_temp/
+*.tmp
+*.bak
+*.swp
+
+# Banco de memória (documentação interna)
+memory-bank/
+
+# Configurações locais (contém segredos como chaves API)
+.env
+
+# Arquivos de teste e cobertura
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.coverage.*
+
+# Logs
+*.log
+
+# Diretórios de distribuição/compilação
+dist/
+build/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini 
+
+
+.cursorrules

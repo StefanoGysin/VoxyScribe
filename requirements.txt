@@ -1,0 +1,19 @@
+# Voxy Tool Speech to Text - Requirements
+
+# Fase 1 - PoC Dependências
+keyboard
+sounddevice
+numpy
+scipy  # Para salvar arquivos .wav
+pyautogui
+
+# Fase 2+ Dependências
+pydub
+openai
+python-dotenv
+PySide6  # Nova dependência para GUI (substitui Tkinter)
+
+# Testes
+pytest
+pytest-mock
+pytest-cov  # Ferramenta para análise de cobertura 
